@@ -22,8 +22,5 @@
  🔹 𝙍𝒆𝙖𝒍-𝑾𝙤𝒓𝙡𝒅 𝑨𝙥𝒑𝙡𝒊𝙘𝒂𝙩𝒊𝙤𝒏: Applying these skills to real datasets, enhancing my analytical capabilities.
 # Check
 git clone https://github.com/Ranjan234/CofeeShopsales.git
-# License.
-This project is licensed under the (Source: Maven Analytics)
-
-(License: Public Domain) License.
-
+# Dashboard
+![Dashboard](https://github.com/Ranjan234/CofeeShopsales/blob/main/Screenshot%202024-12-26%20093142.png)
